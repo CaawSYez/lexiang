@@ -1,4 +1,4 @@
-﻿<admin>
+<admin>
 <ADMIN10000> 
 200000={停用软件="假"};
 100000={启动更新="真"};
@@ -25,13 +25,13 @@ zhiliao=[qun=198228152‖key=cgI85qIWYfgP6Bd8CKerDunSqqDKRj2O‖pay=0‖商户ID
 <ADMIN40000>
 *@pay：0->关闭,1->在线支付,2->网页购买,3->自由选择
 400000={@pay="0",@UserName="MM10000",@RechargeApi="http://w.eydata.net/c7a0bfdf0ec09fb9"}; 
-100001={agent="https://gitee.com/zl1808950806/4000/raw/master/agent.txt"};
-100002={feedback="https://gitee.com/zl1808950806/4000/raw/master/feedback.txt"};
-100003={key="https://gitee.com/zl1808950806/4000/raw/master/key.txt"};
-100004={jxapi="https://gitee.com/zl1808950806/4000/raw/master/jxapi.txt"};
-100005={cctv="https://gitee.com/zl1808950806/4000/raw/master/cctv.txt"};
-100006={buygoods="https://gitee.com/zl1808950806/4000/raw/master/buygoods.txt"};
-100007={poster="https://gitee.com/zl1808950806/4000/raw/master/poster.txt"};
-100008={UserUp="https://gitee.com/zl1808950806/4000/raw/master/UserUp.txt"};
+100001={agent="https://gitee.com/llcyyf/lexiang/raw/master/agent.txt"};
+100002={feedback="https://gitee.com/llcyyf/lexiang/raw/master/feedback.txt"};
+100003={key="https://gitee.com/llcyyf/lexiang/raw/master/key.txt"};
+100004={jxapi="https://gitee.com/llcyyf/lexiang/raw/master/jxapi.txt"};
+100005={cctv="https://gitee.com/llcyyf/lexiang/blob/master/cctv.txt"};
+100006={buygoods="https://gitee.com/llcyyf/lexiang/blob/master/buygoods.txt"};
+100007={poster="https://gitee.com/llcyyf/lexiang/raw/master/poster.txt"};
+100008={UserUp="https://gitee.com/llcyyf/lexiang/raw/master/UserUp.txt"};
 </ADMIN40000>
 </admin>
